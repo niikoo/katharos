@@ -2711,9 +2711,8 @@
     },
     "entity.creeper.primed": {
         "sounds": [
-            "random/buffa_is_cool"
+            "random/fuse"
         ],
-        "replace": true,
         "subtitle": "subtitles.entity.creeper.primed"
     },
     "entity.dolphin.ambient": {
