@@ -1,1 +1,2 @@
-# clean-minecraft
+# Clean Minecraft Resource Pack
+
