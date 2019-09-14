@@ -1,5 +1,6 @@
 As seen on TV!
 Awesome!
+Clean up after visiting my village. Your mom doesn't work here!
 100% pure!
 May contain nuts!
 More polygons!
@@ -11,22 +12,25 @@ Best in class!
 It's finished!
 Kind of dragon free!
 100% clean texture mod!
-No magic here
+No magic here.
 Supernatural, no more.
-Modded resource pack by niikoo1337
+Science, only science.
+Some weirdo new scientific and nostalgic creatures ahead.
+Modded resource pack by niikoo
 Excitement!
-More than 500 sold!
+More than 500 sold (or not)!
+Open Source FTW!
 One of a kind!
 Heaps of hits on YouTube!
 Indev!
 Spiders everywhere!
 The cake is a lie!
 The cake is so delicious and moist
-GLADOS is here
+GLaDOS is here
 Check it out!
 It's a game!
 Made in Sweden!
-Played in Norway
+Played in Norway!
 Reticulating splines!
 Minecraft!
 Yaaay!
@@ -56,6 +60,7 @@ Pretty!
 Fat free!
 Absolutely no memes!
 Free dental!
+Zero sugar!
 Ask your doctor!
 Minors welcome!
 Cloud computing!
@@ -114,8 +119,9 @@ sqrt(-1) love you!
 Phobos anomaly!
 Punching wood!
 Falling off cliffs!
-1% sugar!
-150% hyperbole!
+1% sugar (or not)!
+Contains a source of phenylalanine
+15000% hyperbole!
 Synecdoche!
 Let's danec!
 Seecret Friday update!
@@ -134,70 +140,53 @@ BTAF used to be good!
 I miss ADOM!
 umop-apisdn!
 OICU812!
+Vocals by Kiara!
+m4rkmus is not a field vole!
 Bring me Ray Cokes!
 Finger-licking!
 Thematic!
+Soldered!
 Pneumatic!
-Sublime!
+VS Coded
+There's no place like 127.0.0.1
 Octagonal!
 Une baguette!
-Gargamel plays it!
-Rita is the new top dog!
-SWM forever!
-Representing Edsbyn!
-Matt Damon!
-Supercalifragilisticexpialidocious!
-Consummate V's!
-Cow Tools!
 Double buffered!
 Fan fiction!
-Jason! Jason! Jason!
 Hotter than the sun!
 Internet enabled!
 Autonomous!
 Engage!
-Fantasy!
-DRR! DRR! DRR!
 Kick it root down!
 Regional resources!
 Woo, facepunch!
 Woo, somethingawful!
 Woo, /v/!
 Woo, tigsource!
-Woo, worldofminecraft!
 Woo, 2pp!
 Google anlyticsed!
 Now supports åäö!
-Give us Gordon!
+Say hi to Gorgon!
 Tip your waiter!
 Very fun!
 12345 is a bad password!
-Vote for net neutrality!
+password is a bad password!
 Lives in a pineapple under the sea!
-MAP11 has two names!
-Omnipotent!
 Gasp!
 ...!
 Bees, bees, bees, bees!
-Jag känner en bot!
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
-Haha, LOL!
-Hampsterdance!
+Find the portal gun
 Switches and ores!
-Menger sponge!
-idspispopd!
-Eple (original edit)!
 So fresh, so clean!
 Slow acting portals!
-Try the Nether!
 Don't look directly at the bugs!
 Oh, ok, Pigmen!
 Finally with ladders!
-Scary!
-Play Minecraft, Watch Topgear, Get Pig!
+Get some work done!
+Play Minecraft, Watch MacGyver, Repeat!
 Twittered about!
 Jump up, jump up, and get down!
-Joel is neat!
 A riddle, wrapped in a mystery!
 Huge tracts of land!
 Welcome to your Doom!
@@ -221,16 +210,15 @@ Kinda like Lemmings!
 Follow the train, CJ!
 Leveraging synergy!
 This message will never appear on the splash screen, isn't that weird?
-90210!
+42
 Check out the far lands!
 That's super!
 Bread is pain!
 Read more books!
-Less addictive than TV Tropes!
+Less addictive than 'Border Security: Australia's Front Line'!
 More addictive than lemonade!
 Bigger than a bread box!
 Millions of peaches!
-Fnord!
 This is my true form!
 Totally forgot about Dre!
 Don't bother with the clones!
@@ -268,28 +256,26 @@ if not ok then return end
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
 §kFUNKY LOL
 Big Pointy Teeth!
-Bekarton guards the gate!
 Mmmph, mmph!
 Don't feed avocados to parrots!
-Swords for everyone!
+"Those who take the sword will perish by the sword.” (Mt 26:52)
 Plz reply to my tweet!
 .party()!
 Take her pillow!
 Put that cookie down!
-Pretty scary!
 I have a suggestion.
 Now with extra hugs!
 Now Java 8!
 Woah.
 What's up, Doc?
-Now contains 32 random daily cats!
-That's Numberwang!
-pls rt
 Do you want to join my server?
 Put a little fence around it!
 Throw a blanket over it!
 One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
+TTT = Things Take Time
+Do less, play more!
+Do something else now...
 Extra things!
 Yay, puppies for everyone!
 So sweet, like a nice bon bon!
@@ -343,6 +329,7 @@ Something funny!
 I need more context.
 Ahhhhhh!
 Don't worry, be happy!
+Tran is good for you!
 Water bottle!
 What's the question?
 Plant a tree!
@@ -358,3 +345,4 @@ Playable on linux too!
 Das beerboot
 Now on DAB+, or not
 What is red and bad for your teeth? A brick!
+Now written in TypeScript!
