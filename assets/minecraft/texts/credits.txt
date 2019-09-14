@@ -421,7 +421,11 @@
 §f          Daniel Brynolf
 §f          Pontus Hammarberg
 
-
+[C]§f============
+[C]§eResource Pack Developers
+[C]§f============
+§f          Nikolai Ommundsen
+§f          Marcus Fredriksen
 
 
 
