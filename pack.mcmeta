@@ -2,5 +2,5 @@
   "pack": {
     "pack_format": 5,
     "description": "Cleaned up no-magic Minecraft. Updated for 1.15.2. Supports stock and fabric. Language support: English (United States)."
-  },
+  }
 }
