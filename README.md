@@ -19,7 +19,9 @@ Only US English (en-us) is supported at the moment.
 - 1.15
 - 1.15.1
 - 1.15.2
-- 1.16-Snapshot (<= 20w16a)
+- 1.16-Snapshot
+- 1.16
+- 1.16.1
 
 ### Supported mods and custom maps
 
