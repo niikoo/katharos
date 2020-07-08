@@ -1,4 +1,4 @@
-# Clean Minecraft (Resource Pack)
+# Katharos (clean)
 
 ## Summary
 
