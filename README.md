@@ -22,6 +22,7 @@ Only US English (en-us) is supported at the moment.
 - 1.16-Snapshot
 - 1.16
 - 1.16.1
+- 1.16.2
 
 ### Supported mods and custom maps
 
