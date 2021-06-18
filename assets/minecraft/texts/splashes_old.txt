@@ -4,7 +4,6 @@ Clean up after visiting my village. Your mum doesn't work here!
 100% pure!
 May contain nuts!
 More polygons!
-Moderately attractive!
 Will fit under your bed for efficient storage
 Limited edition!
 Flashing letters!
@@ -17,6 +16,7 @@ No magic here.
 Supernatural, no more.
 Science, only science.
 Some weirdo new scientific and nostalgic creatures ahead.
+Modded resource pack by niikoo
 Excitement!
 More than 500 sold!
 Open Source FTW!
@@ -24,7 +24,6 @@ One of a kind!
 Heaps of hits on YouTube!
 Indev!
 Spiders everywhere!
-Check it out!
 The cake is a lie!
 The cake is so delicious and moist
 GLaDOS is here
@@ -32,7 +31,6 @@ Check it out!
 It's a game!
 Made in Sweden!
 Played in Norway!
-Uses LWJGL!
 Reticulating splines!
 Minecraft!
 Yaaay!
@@ -47,7 +45,6 @@ Create!
 Survive!
 Dungeon!
 Exclusive!
-The bee's knees!
 Closed source!
 Classy!
 Wow!
@@ -55,8 +52,6 @@ Not on steam!
 Oh man!
 Awesome community!
 Pixels!
-Teetsuuuuoooo!
-Kaaneeeedaaaa!
 Now with difficulty!
 Enhanced!
 90% bug free!
@@ -74,15 +69,13 @@ Hard to label!
 Technically good!
 Bringing home the bacon!
 Indie!
-GOTY!
-Ceci n'est pas une title screen!
 Euclidian!
 Now in 3D!
 Inspirational!
 Complex cellular automata!
 Yes, sir!
 Played by cowboys!
-Now on OpenGL 3.2 core profile!
+OpenGL 2.1 (if supported)!
 Thousands of colors!
 Try it!
 Try the mushroom stew!
@@ -126,9 +119,6 @@ Phobos anomaly!
 Punching wood!
 Falling off cliffs!
 1% sugar!
-150% hyperbole!
-Synecdoche!
-Let's danec!
 1+1+1+1+1=5
 Contains a source of phenylalanine
 15000% hyperbole!
@@ -141,85 +131,57 @@ Internet enabled!
 Now with Motorcycles!
 Seecret Friday update!
 Reference implementation!
-Kiss the sky!
-while(true) {}
 20 GOTO 10!
-Verlet intregration!
+while(true) {}
+Do not distribute!
+4815162342++ lines of code!
+The sum of its parts!
 Vocals by Kiara!
 m4rkmus is not a field vole!
-No Magic!
-Do not distribute!
-Cogito ergo sum!
-4815162342 lines of code!
-No skeletons pops out!
-The sum of its parts!
-BTAF used to be good!
-I miss ADOM!
-umop-apisdn!
+Finger-licking!
 Soldered!
 VS Coded
 There's no place like 127.0.0.1
 Fart from the heart!
 Brustadbua is the place!
-Finger-licking!
-Thematic!
-Pneumatic!
-Sublime!
-Octagonal!
-Une baguette!
-SWM forever!
 Double buffered!
 Fan fiction!
 Hotter than the sun!
-Internet enabled!
+Now with 65k modem support
 Autonomous!
 ISDN enabled
-Now with 65k modem support
-Can be played on T1
-Can be played on E1
 Engage!
-Ding Dong!
 Kick it root down!
 Regional resources!
-Woo, facepunch!
-Woo, tigsource!
 Woo, /v/!
-Woo, worldofminecraft!
-Woo, reddit!
+Woo, tigsource!
 Woo, 2pp!
 Google anlyticsed!
 Now supports åäö!
+Say hi to Gorgon!
 Tip your waiter!
 Very fun!
 12345 is a bad password!
 password is a bad password!
 Lives in a pineapple under the sea!
-Find the portal gun
-Switches and ores!
 Gasp!
 ...!
 Bees, bees, bees, bees!
-Assert.IsTrue(i18n("Katharos")=="Clean")
 This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
-Haha, LOL!
-Hamsterdans!
-Menger sponge!
-Eple (original edit)!
+Find the portal gun
+Switches and ores!
 So fresh, so clean!
+Assert.IsTrue(i18n("Katharos")=="Clean")
 Slow acting portals!
-Try the Nether!
 Don't look directly at the bugs!
 Oh, ok, Pigmen!
 Finally with ladders!
-Scary!
-Play Minecraft, Eat, Get Pig!
 Get some work done!
 Play Minecraft, Watch MacGyver, Repeat!
 Twittered about!
 Jump up, jump up, and get down!
-Huge tracts of land!
 A riddle, wrapped in a mystery!
-This parrot is no more! It has ceased to be!
+Huge tracts of land!
 Stay a while, stay forever!
 Stay a while and listen!
 Treatment for your rash!
@@ -237,13 +199,13 @@ Undefeated!
 Kinda like Lemmings!
 Follow the train, CJ!
 Leveraging synergy!
-42
 This message will never appear on the splash screen, isn't that weird?
-DungeonQuest is unfair!
+42
 Check out the far lands!
 That's super!
 Bread is pain!
 Read more books!
+Less addictive than 'Border Security: Australia's Front Line'!
 More addictive than lemonade!
 Bigger than a bread box!
 Millions of peaches!
@@ -254,36 +216,19 @@ Made by Jeb!
 Has an ending!
 Finally complete!
 Feature packed!
-Boots with the fur!
-Less addictive than 'Border Security: Australia's Front Line'!
 Stop, hammertime!
 Testificates!
 Conventional!
-Homeomorphic to a 3-sphere!
 Doesn't avoid double negatives!
 Place ALL the blocks!
 Does barrel rolls!
-Meeting expectations!
-PC gaming since 1873!
 PC gaming since 1337!
-Déjà vu!
-Déjà vu!
 Got your nose!
 Haley loves Elan!
 Afraid of the big, black bat!
-Doesn't use the U-word!
-Child's play!
 See you next Friday or so!
-From the streets of Södermalm!
 150 bpm for 400000 minutes!
-Technologic!
-日本ハロー！
-한국 안녕하세요!
-Helo Cymru!
-Cześć Polsko!
-你好中国！
-Привет Россия!
-Γεια σου Ελλάδα!
+My life for Aiur!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
 Who put it there?
@@ -294,41 +239,25 @@ if not ok then return end
 Big Pointy Teeth!
 Mmmph, mmph!
 Don't feed avocados to parrots!
-Swords for everyone!
-Robotify
-Plz reply to my tweet!
-.party()!
 Take her pillow!
 Put that cookie down!
-Pretty big world!
 I have a suggestion.
 Now with extra hugs!
-No more Java 8!
-Now Java 16!
+Now Java 8!
 Woah.
 What's up, Doc?
-Now contains 32 random daily cats!
-pls
-why?
 Do you want to join my server?
 Put a little fence around it!
 Throw a blanket over it!
 One day, somewhere in the future, my work will be quoted!
 Now with additional stuff!
-Extra things!
-Yay, puppies for everyone!
-So sweet, like a nice bon bon!
 TTT = Things Take Time
 Do less, play more!
 Do something else now...
 Very influential in its circle!
 Now With Multiplayer!
 Blue warrior shot the food!
-Run, coward! I hunger!
 Flavor with no seasoning!
-Strange, but not a stranger!
-Tougher than diamonds, rich like cream!
-It swings, it jives!
 Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
@@ -345,14 +274,12 @@ doot doot
 Falling with style!
 Throw yourself at the ground and miss
 Rule #1: it's never my fault
-Replaced molten cheese with stones?
 Absolutely fixed relatively broken coordinates
 Boats FTW
 Javalicious edition
 Should not be played while driving
 You're going too fast!
 Don't feed chocolate to parrots!
-The true meaning of covfefe
 An illusion! What are you hiding?
 Something's not quite right...
 Thank you for the fish!
@@ -361,11 +288,9 @@ Truly gone fishing!
 Rainbow turtle?
 Get a CO2 monitor
 Can now be played in a Man Cave
-Tran is good for you!
 Something funny!
 What is gray and can't climb trees? A parking lot.
 I need more context.
-Ahhhhhh!
 Don't worry, be happy!
 Tran is good for you!
 Water bottle!
@@ -444,39 +369,3 @@ Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
-No racism!
-Amplify and listen to BIPOC voices!
-Support the BIPOC community and creators!
-Stand up for equality in your community!
-[this splash text has been delayed until part 2]
-Contains simulated goats!
-Home-made!
-Contains goat cheese
-Contains goat milk
-There's <<a cat on ,my keyboard!~
-The cutest predator you'll ever meet!
-Now you are thinking with pistons!
-Get to the coppah!
-Board game version also available!
-Honey, I waxed the copper!
-Plant-based light sources!
-Made by "real" people!
-Wash your hands!
-Pandemic gameplay.
-Hei Norge!
-Ska me stikka å eda?
-Hand sanitizer
-Antiseptic power
-Skjera?
-Sup?
-import test from 'test';
-import 'game' from 'mc';
-Loading... please wait
-ASCII is supported
-UTF-8 compatible
-Loading fonts...
-Develop the land
-Plant that wheat
-Plant that tree
-Plant some trees
-Plant plants
