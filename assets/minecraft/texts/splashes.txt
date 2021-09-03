@@ -5,6 +5,7 @@ Clean up after visiting my village. Your mum doesn't work here!
 May contain nuts!
 More polygons!
 Will fit under your bed for efficient storage
+Moderately attractive!
 Limited edition!
 Flashing letters!
 It's here!
@@ -45,6 +46,7 @@ Create!
 Survive!
 Dungeon!
 Exclusive!
+The bee's knees!
 Closed source!
 Classy!
 Wow!
@@ -75,11 +77,11 @@ Inspirational!
 Complex cellular automata!
 Yes, sir!
 Played by cowboys!
-OpenGL 2.1 (if supported)!
 Thousands of colors!
 Try it!
 Try the mushroom stew!
 Sensational!
+OpenGL under the hood!
 Play him off, keyboard cat!
 Guaranteed!
 Macroscopic!
@@ -119,6 +121,7 @@ Phobos anomaly!
 Punching wood!
 Falling off cliffs!
 1% sugar!
+150% hyperbole!
 1+1+1+1+1=5
 Contains a source of phenylalanine
 15000% hyperbole!
@@ -131,6 +134,7 @@ Internet enabled!
 Now with Motorcycles!
 Seecret Friday update!
 Reference implementation!
+Kiss the sky!
 20 GOTO 10!
 while(true) {}
 Do not distribute!
@@ -138,12 +142,19 @@ Do not distribute!
 The sum of its parts!
 Vocals by Kiara!
 m4rkmus is not a field vole!
+Smash!
 Finger-licking!
 Soldered!
 VS Coded
 There's no place like 127.0.0.1
 Fart from the heart!
 Brustadbua is the place!
+Internet enabled!
+Thematic!
+Pneumatic!
+Octagonal!
+Jason! Jason! Jason!
+Cow Tools!
 Double buffered!
 Fan fiction!
 Hotter than the sun!
@@ -153,9 +164,6 @@ ISDN enabled
 Engage!
 Kick it root down!
 Regional resources!
-Woo, /v/!
-Woo, tigsource!
-Woo, 2pp!
 Google anlyticsed!
 Now supports åäö!
 Say hi to Gorgon!
@@ -173,6 +181,7 @@ Switches and ores!
 So fresh, so clean!
 Assert.IsTrue(i18n("Katharos")=="Clean")
 Slow acting portals!
+Haha, LOL!
 Don't look directly at the bugs!
 Oh, ok, Pigmen!
 Finally with ladders!
@@ -201,6 +210,8 @@ Follow the train, CJ!
 Leveraging synergy!
 This message will never appear on the splash screen, isn't that weird?
 42
+Jeb has amazing hair!
+Ryan also has amazing hair!
 Check out the far lands!
 That's super!
 Bread is pain!
@@ -228,6 +239,7 @@ Haley loves Elan!
 Afraid of the big, black bat!
 See you next Friday or so!
 150 bpm for 400000 minutes!
+Technologic!
 My life for Aiur!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
@@ -246,6 +258,7 @@ Now with extra hugs!
 Now Java 8!
 Woah.
 What's up, Doc?
+JAVA!
 Do you want to join my server?
 Put a little fence around it!
 Throw a blanket over it!
@@ -258,6 +271,8 @@ Very influential in its circle!
 Now With Multiplayer!
 Blue warrior shot the food!
 Flavor with no seasoning!
+Tougher than diamonds, rich like cream!
+Strange, but not a stranger!
 Cruising streets for gold!
 Take an eggbeater and beat it against a skillet!
 Make me a table, a funky table!
@@ -298,6 +313,7 @@ Cheese Doodles!
 Space is the place – I'm in space!
 What's the question?
 Plant a tree!
+Ahhhhhh!
 Go to the dentist!
 What do you expect?
 Look mum, I'm in a splash!
@@ -369,3 +385,45 @@ Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
+Fancy splashy text
+Contains simulated goats!
+Fancy splashy text 01
+Fancy splashy text 02
+Fancy splashy text 03
+Fancy splashy text 04
+Fancy splashy text 05
+Fancy splashy text 06
+Fancy splashy text 07
+Fancy splashy text 08
+Fancy splashy text 09
+Fancy splashy text 0A
+Fancy splashy text 0B
+Fancy splashy text 0C
+Fancy splashy text 0D
+Fancy splashy text 0E
+Fancy splashy text 0F
+Fancy splashy text 10
+Fancy splashy text 11
+Fancy splashy text 12
+Fancy splashy text 13
+Fancy splashy text 14
+Fancy splashy text 15
+Fancy splashy text 16
+Fancy splashy text 17
+Fancy splashy text 18
+Fancy splashy text 19
+Fancy splashy text 1A
+Fancy splashy text 1B
+Fancy splashy text 1C
+Fancy splashy text 1D
+Fancy splashy text 1E
+Fancy splashy text 1F
+Fancy splashy text 20
+Fancy splashy text 21-FE
+Fancy splashy text FF
+Home-made!
+[this splash text has been delayed until part 2]
+Board game version also available!
+Get to the coppah!
+Honey, I waxed the copper!
+The cutest predator you'll ever meet!
