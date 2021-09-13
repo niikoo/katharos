@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "pack_format": 7,
-        "description": "Katharos (clean) | 1.14-1.17.1 | Supports stock and fabric. Language support: English (United States; en-us)."
-    }
+  "pack": {
+    "pack_format": 7,
+    "description": "Katharos (clean) | 1.14-1.18_experimental-snapshot-6 | Supports stock and fabric. Language support: English (United States; en-us)."
+  }
 }
