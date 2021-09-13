@@ -1,4 +1,4 @@
-# Katharos (clean)
+# καθαρός (katharós; clean)
 
 ## Summary
 
@@ -13,7 +13,7 @@ It is a resource pack that tries to remove most of the supernatural elements fro
 
 Only US English (en-us) is supported at the moment.
 
-### Supported Minecraft versions
+### Supported Minecraft Java Edition Versions
 
 - 1.14.4
 - 1.15
@@ -23,6 +23,9 @@ Only US English (en-us) is supported at the moment.
 - 1.16
 - 1.16.1
 - 1.16.2
+- 1.17
+- 1.17.1
+- 1.18 experimental snapshot 1-7
 
 ### Supported mods and custom maps
 
