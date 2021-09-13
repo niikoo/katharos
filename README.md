@@ -1,4 +1,4 @@
-# καθαρός (katharós; clean)
+# καθαρός (katharós; clean) Minecraft Resource Pack
 
 ## Summary
 
