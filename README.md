@@ -6,12 +6,11 @@ No magic, no zombies, no luck.
 
 ## Description
 
-This project is an effort to make the game more rational and an effort to remove supernatural elements.
-It is a resource pack that tries to remove most of the supernatural elements from Minecraft, so that scientific elements can be used instead.
+It is a resource pack that tries to remove most of the supernatural elements from Minecraft. Scientific, more rational and sci-fi ideas and concepts are used instead.
 
 ## Important notices
 
-Only US English (en-us) is supported at the moment.
+Only US English (en-us) is supported at the moment. Please select this as the game language.
 
 ### Supported Minecraft Java Edition Versions
 
@@ -27,12 +26,18 @@ Only US English (en-us) is supported at the moment.
 - 1.17.1
 - 1.18 experimental snapshot 1-7
 - 1.18 snapshot 21w37a
+- 1.18 (partially)
+- 1.19 (partially)
 
 ### Supported mods and custom maps
 
-- Skyblock 4
-- MoEnchantments
-- Vanilla Hammers
+- Skyblock 4 (partially)
+- MoEnchantments (partially)
+- Vanilla Hammers (partially)
+
+### This project at Minecraft mod sites
+
+[Curseforge](https://www.curseforge.com/minecraft/texture-packs/katharos)
 
 ### Due credit
 
