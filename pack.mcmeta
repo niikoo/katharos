@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 7,
-    "description": "Katharos (clean) | 1.14-1.18 snapshot 21w37a | Supports stock and fabric versions. | Language support: English (United States; en-us)."
+    "pack_format": 9,
+    "description": "καθαρός (katharós; clean) | 1.14-1.19.2 | Supports stock (1.14-1.19.2) and fabric (1.14-1.14.4). | Language support: English (United States; en-us)."
   }
 }

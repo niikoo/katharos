@@ -1,4 +1,16 @@
 {
     "name": "katharos",
-    "version": "3.2.2"
+    "version": "3.5.0",
+    "private": true,
+    "homepage": "https://github.com/niikoo/katharos",
+    "bugs": {
+        "url": "https://github.com/niikoo/katharos/issues"
+    },
+    "author": {
+        "name": "Nikolai Ommundsen",
+        "email": "post@niikoo.net",
+        "url": "https://github.com/niikoo"
+    },
+    "license": "GPL-2.0-only",
+    "displayName": "katharos"
 }
