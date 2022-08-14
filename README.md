@@ -14,20 +14,24 @@ Only US English (en-us) is supported at the moment. Please select this as the ga
 
 ### Supported Minecraft Java Edition Versions
 
-- 1.14.4
-- 1.15
-- 1.15.1
-- 1.15.2
-- 1.16-Snapshot
-- 1.16
-- 1.16.1
-- 1.16.2
-- 1.17
+- 1.19.2
+- 1.19.1
+- 1.19
+- 1.18.2
+- 1.18.1
+- 1.18
 - 1.17.1
-- 1.18 experimental snapshot 1-7
-- 1.18 snapshot 21w37a
-- 1.18 (partially)
-- 1.19 (partially)
+- 1.17
+- 1.16.5
+- 1.16.4
+- 1.16.3
+- 1.16.2
+- 1.16.1
+- 1.16
+- 1.15.2
+- 1.15.1
+- 1.15
+- 1.14.4
 
 ### Supported mods and custom maps
 
